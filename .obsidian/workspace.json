@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "41be6015604a1c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f1a1ea0a94b47c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a274c6438e70d187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ipc-2(sync).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ipc-2(sync)"
+            }
+          },
+          {
+            "id": "37335d6b74db4d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of OS"
+            }
+          },
+          {
+            "id": "8a675e10725ab68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multi-Tasking vs Multi-Threading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Tasking vs Multi-Threading"
+            }
+          },
+          {
+            "id": "d4eec80d38edf5da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "9911be931c316110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System call working.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System call working"
+            }
+          },
+          {
+            "id": "ff73eda29bbf03fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Runtime Stack , Descriptor ....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runtime Stack , Descriptor ..."
+            }
+          },
+          {
+            "id": "c2c482e770f45163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multi-Tasking vs Multi-Threading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Tasking vs Multi-Threading"
+            }
+          },
+          {
+            "id": "6754a8fa04a69cea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49e013dbad9f2602",
+    "type": "split",
+    "children": [
+      {
+        "id": "6720511102f76961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5cf0947bfc0b920",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a087adf7a12041d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0345f3b8a5ce9985",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "70a53e22fe4bb3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3576418cc99ad1c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "876efaf8aac55e4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Multi-Tasking vs Multi-Threading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Multi-Tasking vs Multi-Threading"
+            }
+          },
+          {
+            "id": "c9929420a67b6df4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Multi-Tasking vs Multi-Threading.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Multi-Tasking vs Multi-Threading"
+            }
+          },
+          {
+            "id": "f270bb9aa68166b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b0d105d924ef6ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Multi-Tasking vs Multi-Threading.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Multi-Tasking vs Multi-Threading"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6754a8fa04a69cea",
+  "lastOpenFiles": [
+    "books/OS_Full_Notes.pdf",
+    "notes/CPU_Cores_Cache_Prefetching_Guide.pdf",
+    "books/Operating Systems & Networks (Freebooks.pk).pdf",
+    "refernce",
+    "and",
+    "books",
+    "System call working.md",
+    "Segmentation.md",
+    "notes/Zombie Process.md",
+    "notes/Types of OS.md",
+    "notes/System call working.md",
+    "notes/Sync in OS.md",
+    "notes/Segmentation.md",
+    "notes/Runtime Stack , Descriptor ....md",
+    "notes/OS Intro.md",
+    "notes/Multi-Tasking vs Multi-Threading.md",
+    "notes/IPC.md",
+    "notes/Convoy Effect.md",
+    "notes",
+    "Sync in OS.md",
+    "Zombie Process.md",
+    "Types of OS.md",
+    "Convoy Effect.md",
+    "IPC.md",
+    "OS Intro.md",
+    "Multi-Tasking vs Multi-Threading.md",
+    "Runtime Stack , Descriptor ....md",
+    "race_condtion.cpp~",
+    "zombie.cpp~",
+    "test",
+    "ipc-2(sync).md"
+  ]
+}
