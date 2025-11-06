@@ -1,6 +1,6 @@
 # Operating System 
 
-This repo contains my code, notes, and the reference material I used while learning Operating Systems.
+This repo contains  code, notes, and the reference material I used while learning Operating Systems.
 
 ---
 
