@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=3obEP8eLsCw&t=37440s
 **2) Operating System  Playlist (Instructor: Numan Ali)**  
 https://www.youtube.com/watch?v=Yo2MASx_Kko&list=PLnd7R4Mcw3rLVqVWxTlC99FeDbzjJZO-F  
 I have followed this playlist up to **video 17**
-https://www.dropbox.com/scl/fo/tlu4xxhujr9h2zh91igzu/ADL4DdNdCTqdUY15r9BoLh8?rlkey=kygzvtcscu3cgr42yz8a8ce2w&e=1&dl=0
+https://www.dropbox.com/scl/fo/tlu4xxhujr9h2zh91igzu/ADL4DdNdCTqdUY15r9BoLh8?rlkey=kygzvtcscu3cgr42yz8a8ce2w&e=1&dl=0 ( course slides)
 
 ---
 
